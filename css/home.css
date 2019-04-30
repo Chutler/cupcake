@@ -1,0 +1,33 @@
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  text-rendering: geometricPrecision;
+  height: 50px;
+  font-family: cursive;
+}
+img {
+}
+
+div {
+  /* border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  height: 500px;
+  align-items: center; */
+  text-align: center;
+}
+
+.pinky {
+  text-align: left;
+  color: pink;
+}
+
+.body {
+  font-style: normal;
+  font-family: sans-serif;
+}
+
+.flashy {
+  font-style: italic;
+  color: red
+}
